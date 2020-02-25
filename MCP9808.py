@@ -1,5 +1,5 @@
 # MCP9808.py
-
+#Code was created by PythonForUndergradEngineers.com, modified to interface with IFTTT to control smart electrical plug
 # Functions for the  MCP9808 temperature sensor
 # https://learn.adafruit.com/micropython-hardware-i2c-devices/i2c-master
 
