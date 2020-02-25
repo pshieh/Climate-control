@@ -1,4 +1,5 @@
 #wifitools.py
+#Code was created by PythonForUndergradEngineers.com, modified to interface with IFTTT to control smart electrical plug
 
 # Wifi connection and ThingSpeak.com post functions for an ESP8266 board running Micropython
 #https://docs.micropython.org/en/v1.8.6/esp8266/esp8266/tutorial/network_basics.html
